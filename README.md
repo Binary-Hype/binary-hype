@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm passionate about building robust web applicati
 💡 I’m currently working on...
 🌱 I’m currently learning...
 📫 How to reach me:
-- Email: [hallo@binary-hype.com](mailto:hallo@binary-hype.com)
+- [hallo@binary-hype.com](mailto:hallo@binary-hype.com)
 - [Instagram](https://www.instagram.com/binary.hype/)
 - [Twitter/X](https://twitter.com/binary_hype)
