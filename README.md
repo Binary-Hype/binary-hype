@@ -4,9 +4,9 @@
 Welcome to my GitHub profile! I'm passionate about building robust web applications and services using the power and elegance of PHP, especially with the Laravel framework. With a knack for both back-end and front-end development, I strive to create seamless, scalable, and performant solutions for complex business challenges.
 
 ## 🛠 Tech Stack
-- Languages: PHP, JavaScript, TypeScript
-- Frameworks & Libraries: Laravel, Livewire, Statamic, Shopware, Vue.js, AlpineJS
-- Databases: MySQL, PostgreSQL, MariaDB, Redis
+- Main Languages: PHP, JavaScript/TypeScript
+- Frameworks & Libraries: Laravel, Livewire, TailwindCSS, Statamic, Shopware, AlpineJS
+- Databases: MySQL, MariaDB, Redis
 - Tools & Platforms: GitHub with Actions, Hetzner, Deployer, DDEV, ploi.io
 - Testing Tools: PHPUnit, Jest
 
