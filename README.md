@@ -14,3 +14,4 @@ PHP developer for 10+ years, which means I've earned the right to roll my eyes a
 ## 📫 How to reach me:
 - [hallo@binary-hype.com](mailto:hallo@binary-hype.com)
 - [Instagram](https://www.instagram.com/binary.hype/)
+- [Shopware Extensions](https://store.shopware.com/en/extension-partners/binary-hype)
