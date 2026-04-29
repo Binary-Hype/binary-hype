@@ -6,7 +6,7 @@ PHP developer for 10+ years, which means I've earned the right to roll my eyes a
 ## 🛠 Tech Stack
 - Main Languages: PHP, JavaScript
 - Frameworks & Libraries: Laravel, Shopware 6, WordPress, 
-- Databases: MySQL, MariaDB, Redis
+- Databases: MySQL, MariaDB, PostgreSQL
 - Tools & Platforms: GitHub with Actions, Hetzner, Deployer, DDEV, ploi.io
 - Testing Tools: Pest, PHPUnit, Playwright
 - AI: Claude Code, [Custom Marketplace](https://github.com/Binary-Hype/claude-marketplace), Claude Octopus, pgvector + OpenAI Embeddings
